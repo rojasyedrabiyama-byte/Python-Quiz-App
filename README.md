@@ -8,3 +8,7 @@ This app tests your knowledge of Python programming with multiple-choice questio
 - Instant answer feedback (✅ Correct / ❌ Wrong)  
 - Final score summary  
 - Beginner-friendly code structure
+
+<p align="center">
+  <img src="output.png" alt="program output" width="500">
+</p>
