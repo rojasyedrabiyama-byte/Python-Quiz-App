@@ -10,5 +10,5 @@ This app tests your knowledge of Python programming with multiple-choice questio
 - Beginner-friendly code structure
 
 <p align="center">
-  <img src="output.png" alt="program output" width="500">
+  <img src="output.PNG" alt="program output" width="500">
 </p>
